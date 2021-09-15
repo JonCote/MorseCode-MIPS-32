@@ -1,4 +1,6 @@
 # MorseCode
+CS230 Computer Architecture and Assembly Language UVic, Assignment
+
 Develop from scratch a morse code program using MIPS-32 assembly language
 
 Functions:
